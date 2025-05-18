@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../node_modules/@angular/cdk/fesm2022/observers.mjs"],
+  "sourcesContent": ["export { a as CdkObserveContent, C as ContentObserver, M as MutationObserverFactory, O as ObserversModule } from './observe-content-937cdfbe.mjs';\nimport '@angular/core';\nimport 'rxjs';\nimport 'rxjs/operators';\nimport './element-15999318.mjs';\n"],
+  "mappings": ";;;;;;;;;;;;AAEA,kBAAO;AACP,uBAAO;",
+  "names": []
+}
